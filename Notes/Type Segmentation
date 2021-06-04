@@ -1,0 +1,20 @@
+segmentations rfm :
+recence (achat, visite web, etc), frequence (mois, trimestre ou annee) et montant (au cours d'une periode de temps donnee (mois, trimestre ou annee) ou le panier moyen (montant divise par frequence))
+scoring de 1 a 5, 5 etant le meilleur (seuil par quintile)
+
+segmentations comportementale :
+- mode d'achats (lieu, conditionnement, ...)
+- volumes d'achats (montant, frequence)
+- mode de consommation (beaucoup de petits achats, peu de gros, etc)
+- interets (type de produits)
+- satisfaction (reviews en note)
+- engagement (reviews en nombre)
+- autres mais difficilement visible sur notre jeu de donnees
+
+segmentations personna :
+- Sorte de sous segmentation a l'interieur d'ubn profil type (segment) deja etabli.
+utilisation de : situation personnelle (dur a avoir), demographique (localisation, age, revenus (possible d'avoir certains)) et objectifs (personnels, travail, utilite du produit etc (dur a avoir))
+
+segmentations a la performance :
+?
+

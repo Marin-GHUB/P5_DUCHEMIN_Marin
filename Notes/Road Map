@@ -1,0 +1,29 @@
+done - Exploration des jeux de donnees
+
+- Faire un nouveau jeu de donnees avec les donnees qui vont nous interesser seulement (crees ou presentes initialement)
+done    - Choisir la segmentation
+done    - Definir les variables gardees et a creer
+done    - Creer un dataset base sur Customers ID
+done    - Y associer les variables d'interet
+done    - Creer les variables
+
+- Cleaner/Preparer les donnees
+done    - Visualiser les donnees manquantes
+done    - Visualiser les distributions
+done    - Transformer si besoin (date?)
+
+- Segmentation avec le ML
+done    - Normaliser les donnees numeriques
+done    - Encoder les donnees categorielles (customer ID, Customer City)
+    - Reduction via ACP, isomap, t-SNE et MDS
+    - Tester des algorithmes non supervises (K-Means et DBSCAN)
+    - Les mettre en place
+    - Evaluer (silouhette, ARI, yellowbricks?)
+    - Optimiser
+    - Comparer
+
+- Attribution des profils utilisateurs
+    - 'Traduire' les profils
+    - Decrire les profils
+    - Etablir la frequence necessaire
+
