@@ -1,5 +1,5 @@
 # P5_DUCHEMIN_Marin
 
-To Complete
+In this project, we will group clients of an online shop to help the marketing team with their targeting strategies. 
 
-Projet 5 du Parcours Data Scientist d'OpenClassRooms
+For this, after cleaning and enriching the dataset, we wil reduce the dimension thanks to PCA and t-SNE techniques then apply some unsupervised machine learning (K-Means, DBSCAN, OPTICS).
